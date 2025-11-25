@@ -24,7 +24,7 @@ Fake news has been a great problem, whether its purpose is to spread propaganda,
 
 ## Data Sources <!--- do not change this line -->
 
-*Kaggle Datasets: ([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)*
+* [Kaggle Datasets:] (https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)*
 
 ## Technologies Used <!--- do not change this line -->
 
