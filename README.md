@@ -30,14 +30,18 @@ Fake news has been a great problem, whether its purpose is to spread propaganda,
 
 ## Technologies Used <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
 - *Python*
 - *Jupyter Notebooks*
 - *pandas*
 - *Gemini 3.0*
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- nltk
+- pathlib
+- better_profanity
+- scipy
 
 
 ## Authors <!--- do not change this line -->
