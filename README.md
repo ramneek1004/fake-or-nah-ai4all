@@ -46,7 +46,7 @@ Our experiments compared classical models (including logistic regression, SVM, a
 
 ## Authors <!--- do not change this line -->
 *This project was completed in collaboration with:*
-- *Nina Elmoyan ([ninaelmoyan@gmail.com](mailto:ninaelmoyan@gmail.com))*
+- *Nina Elmoyan ([nelmoya509@student.glendale.edu](mailto:nelmoya509@student.glendale.edu))*
 - *Rhode Sanchez ([rsanc266@fiu.edu](mailto:rsanc266@fiu.edu))*
 - *Wynne Conger ([wc2918@princeton.edu](mailto:wc2918@princeton.edu))*
 - *Ramneek Kaur([rnolas61@asu.edu](mailto:rnolas61@asu.edu))*
